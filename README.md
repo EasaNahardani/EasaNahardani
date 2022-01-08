@@ -1,5 +1,5 @@
 <h2 align="center" >Hey there! I'm Easa</h2>
-<img align="center" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img align="center" alt="Night Coding" src="https://github.com/EasaNahardani/EasaNahardani/blob/main/images9999999.jpg"/>
 
 
 ### 👨 &nbsp;About Me
