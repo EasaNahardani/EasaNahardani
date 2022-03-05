@@ -1,4 +1,4 @@
-<h2 align="center" >Hey there! I'm Easa</h2>
+<h2 align="center" >Hey there! I'm Eisa</h2>
 <img align="center" alt="Night Coding" src="https://github.com/EasaNahardani/EasaNahardani/blob/main/images9999999.jpg"/>
 
 
