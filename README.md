@@ -40,7 +40,7 @@
 <h5>- Web technologies: HTML5, CSS3, ES7+, a11</h5>
 <h5>- Databases: MongoDB, PostgreSQL, Redis</h5>
 
-###  &nbsp;Connect with Me
+###  &nbsp;Connect with Me:
 
 <p align="center">
 <a href="https://www.eisa-nahardani.com"><img src="https://img.shields.io/badge/-My Web-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
