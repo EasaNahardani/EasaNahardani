@@ -38,7 +38,7 @@
 <h5>- Mobile: Java</h4>
 <h5>- UI Frameworks:  Bootstrap</h5>
 <h5>- Web technologies: HTML5, CSS3, ES7+, a11</h5>
-<h5>- Databases: MongoDB, PostgreSQL</h5>
+<h5>- Databases: MongoDB, PostgreSQL, Redis</h5>
 
 ###  &nbsp;Connect with Me
 
