@@ -21,7 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -46,5 +45,4 @@
 <a href="www.linkedin.com/in/eisa-nahardani"><img src="https://img.shields.io/badge/-linkedin?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:92developer92@gmail.com"><img src="https://img.shields.io/badge/-92developer92@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/Coming soon...-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
 </p>
