@@ -5,7 +5,7 @@
 
 ### 👨 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks\
 ✉️ &nbsp;You can shoot me an email at ! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://www.eisa-nahardani.ir) for more details about me. I'm open to feedback and suggestions!
 
