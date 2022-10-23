@@ -1,26 +1,6 @@
 <h2 align="center" >Hey there! I'm Eisa</h2>
 <img  alt="Night Cding" src="https://github.com/EasaNahardani/EasaNahardani/blob/main/images9999999.jpg"/>
 
-
-
-### 👨 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks\
-✉️ &nbsp;You can shoot me an email at ! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://www.eisa-nahardani.ir) for more details about me. I'm open to feedback and suggestions!
-
-
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)\
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -29,15 +9,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=easanahardani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<h3>  🎉 Skills  🎉 </h3>
-<h5>- BackEnd : Python, Django</h5>
-<h5>- CI/CD:  GitHub Actions</h5>
-<h5>- DevOps: Docker, Nginx</h5>
-<h5>- Mobile: Java</h4>
-<h5>- UI Frameworks:  Bootstrap</h5>
-<h5>- Web technologies: HTML5, CSS3, ES7+, a11</h5>
-<h5>- Databases: MongoDB, PostgreSQL, Redis</h5>
-<h5>- Architectural Patterns: MVC, Microservice</h5>
+
 
 ###  &nbsp;Connect with Me:
 
