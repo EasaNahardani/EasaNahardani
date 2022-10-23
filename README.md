@@ -1,5 +1,4 @@
 <h2 align="center" >Hey there! I'm Eisa</h2>
-<img  alt="Night Cding" src="https://github.com/EasaNahardani/EasaNahardani/blob/main/images9999999.jpg"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
